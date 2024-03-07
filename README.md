@@ -1,4 +1,4 @@
-# springboot3-tracing
+# Tracing in Spring boot 3 with Micrometer plugin
 
 1. Clone the repo & run the application in local
 2. Send a GET request to `/test` endpoint
